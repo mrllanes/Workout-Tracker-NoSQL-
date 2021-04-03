@@ -21,6 +21,8 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 app.use(express.static("public"));
+app.use(require("./routes/htmlroutes.js"));
+// app.use(require("./routes/apiroutes.js"));
 
 app.listen(PORT, () => {
 	console.log("App running on port 3000!");
