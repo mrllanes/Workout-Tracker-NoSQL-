@@ -4,8 +4,8 @@
 
 ## Deployed site
 
-https://obscure-retreat-71757.herokuapp.com/
-https://github.com/mrllanes/Workout-Tracker-NoSQL-
+-   https://obscure-retreat-71757.herokuapp.com/
+-   https://github.com/mrllanes/Workout-Tracker-NoSQL-
 
 ## Table of Contents
 
